@@ -1,4 +1,6 @@
-## Welcome to the Evio Software Package Documentation
+# Welcome to the Evio Software Package Documentation
+
+## Trying to use GitHub to host the evio documentation for a proof-of-principle
 
 You can use the [editor on GitHub](https://github.com/JeffersonLab/evio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
