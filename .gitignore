@@ -1,10 +1,10 @@
 .DS_Store
 .scon*
-build
+build/
 __pycache__
-cmake-build-debug
+cmake-build-debug/
 nathanMail
-doc/source
-src
+doc/source/
+src/
 config.log
 .idea
