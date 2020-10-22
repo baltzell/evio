@@ -2,7 +2,7 @@
 
 ## Trying to use GitHub to host the evio documentation for a proof-of-principle
 
-Follow this link to get to doxygen documentation:  [Doxygen](file://doc/doxygen/CC/html/index.html)
+Follow this link to get to doxygen documentation:  [Doxygen](doc/doxygen/CC/html/index.html)
 
 Follow this link to get to Jefferson Lab:  [Lab](http://www.jlab.org)
 
