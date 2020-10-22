@@ -2,6 +2,8 @@
 
 ## Trying to use GitHub to host the evio documentation for a proof-of-principle
 
+Follow this link to get to doxygen documentation:  [Link](file://doc/doxygen/CC/html/index.html)
+
 You can use the [editor on GitHub](https://github.com/JeffersonLab/evio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
