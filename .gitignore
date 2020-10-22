@@ -1,0 +1,10 @@
+.DS_Store
+.scon*
+build
+__pycache__
+cmake-build-debug
+nathanMail
+doc/source
+src
+config.log
+.idea
