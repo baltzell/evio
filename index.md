@@ -2,6 +2,8 @@
 
 ## Trying to use GitHub to host the evio documentation for a proof-of-principle
 
+Follow this link to get to doxygen docs: <a href="doc/doxygen/CC/html/index.html">link to the documentation</a>
+
 Follow this link to get to doxygen documentation:  [Doxygen](https://jeffersonlab.github.io/evio/doc/doxygen/CC/html/index.html)
 
 You can use the [editor on GitHub](https://github.com/JeffersonLab/evio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
